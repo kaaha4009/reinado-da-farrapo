@@ -1,3 +1,10 @@
+:root {
+  --bg: #000000;
+  --card: #0a0f0a;
+  --green: #1f6b3a;
+  --green-glow: #2ecc71;
+  --text: #eaeaea;
+}
 body {
   margin: 0;
   font-family: Arial, sans-serif;
