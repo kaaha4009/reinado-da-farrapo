@@ -1,4 +1,3 @@
-<script>
 let tipoConsulta = "";
 
 function abrir(tipo) {
@@ -31,4 +30,3 @@ Consulta: ${tipoConsulta}`;
 
   window.open(url, "_blank");
 }
-</script>
